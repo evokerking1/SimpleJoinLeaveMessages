@@ -1,0 +1,6 @@
+name: SimpleJoinLeaveMessages
+version: '1.0.0-ALPHA'
+main: dev.evokerking.simpleJoinLeaveMessages.SimpleJoinLeaveMessages
+api-version: '1.21'
+prefix: { Sneak Shrink }
+authors: [ evokerking, CoolBlaze2010 ]
