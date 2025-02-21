@@ -1,4 +1,4 @@
-package dev.evokerking.simpleJoinLeaveMessages.events;
+package dev.evokerking.simpleJoinLeaveMessages.paper.events;
 
 import net.kyori.adventure.audience.Audience;
 import net.kyori.adventure.text.Component;

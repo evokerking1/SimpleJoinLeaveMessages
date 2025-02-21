@@ -1,8 +1,8 @@
-package dev.evokerking.simpleJoinLeaveMessages;
+package dev.evokerking.simpleJoinLeaveMessages.paper;
 
+import dev.evokerking.simpleJoinLeaveMessages.paper.joinListener;
+import dev.evokerking.simpleJoinLeaveMessages.paper.leaveListener;
 import org.bukkit.plugin.java.JavaPlugin;
-import dev.evokerking.simpleJoinLeaveMessages.events.joinListener;
-import dev.evokerking.simpleJoinLeaveMessages.events.leaveListener;
 
 
 public final class SimpleJoinLeaveMessages extends JavaPlugin {

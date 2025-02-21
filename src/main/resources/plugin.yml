@@ -1,5 +1,5 @@
 name: SimpleJoinLeaveMessages
 version: '1.0.1-ALPHA'
-main: dev.evokerking.simpleJoinLeaveMessages.SimpleJoinLeaveMessages
+main: dev.evokerking.simpleJoinLeaveMessages.paper.SimpleJoinLeaveMessages
 api-version: '1.21'
 author: EvokerKing
